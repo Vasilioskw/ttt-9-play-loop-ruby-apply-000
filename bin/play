@@ -10,5 +10,4 @@ display_board(board)
 # Make sure to execute #play below
   #your code here
 
-play(board)
-loop do turn
+loop do play(board)
