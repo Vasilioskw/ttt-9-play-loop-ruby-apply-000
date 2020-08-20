@@ -10,4 +10,5 @@ display_board(board)
 # Make sure to execute #play below
   #your code here
 
-9.times { play(board) }
+play(board)
+9.times { turn }
