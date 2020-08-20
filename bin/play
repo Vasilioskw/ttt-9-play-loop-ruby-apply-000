@@ -8,3 +8,9 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
 # Make sure to execute #play below
+  #your code here
+
+do play(board)
+input =+1
+until board(turn) == 9
+         end
