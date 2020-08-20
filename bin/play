@@ -11,4 +11,4 @@ display_board(board)
   #your code here
 
 play(board)
-9.times { turn }
+do 9.times { turn }
