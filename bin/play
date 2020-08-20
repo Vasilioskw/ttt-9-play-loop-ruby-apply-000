@@ -11,5 +11,3 @@ display_board(board)
   #your code here
 
 play(board)
-
-turn(board)
