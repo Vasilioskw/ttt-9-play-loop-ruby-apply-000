@@ -10,11 +10,11 @@ display_board(board)
 # Make sure to execute #play below
   #your code here
 
-until turn == 9
-play(board)
-turn = 0
-turn = turn +1
-when turn == 9
-break
-puts "Game over"
-end
+#until turn == 9
+#play(board)
+#turn = 0
+#turn = turn +1
+#when turn == 9
+#break
+#puts "Game over"
+#end
