@@ -13,5 +13,7 @@ display_board(board)
 play(board)
 turn = 0
 turn = turn +1
-loop do 9.times { turn }
+when turn == 9
+break
+puts "Game over"
 end
